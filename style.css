@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  min-height: 100vh;
+  overflow-y: auto;
+}
+
+input, textarea {
+  width: 100%;
+  margin-bottom: 10px;
+}
